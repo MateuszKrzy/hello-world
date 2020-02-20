@@ -1,3 +1,9 @@
 KOMENDY TERMINALA
 
-cd
+cd nazwa_folderu - otwiera folder
+
+dir - pokazuje pliki w folderze
+
+type - otwiera plik w wierszu poleceñ
+
+jak wpiszê w terminalu gita samo "cd" to cofnie do pocz¹tku
