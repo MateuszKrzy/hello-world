@@ -31,3 +31,8 @@ dodaje do trackowania (stage)
   git status
 
 wyświetla co się dzieje
+
+
+  git add .
+
+dodaje wszystko do zmian
