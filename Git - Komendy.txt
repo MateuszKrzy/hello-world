@@ -1,0 +1,14 @@
+Git - Komendy
+
+git commit -m "nazwa zmiany" -a
+
+-a = all, wszystkie zmiany wprowadzi
+
+
+później 
+
+git push
+
+i dane logowania
+
+Takim sposobem się updatuje repozytorium.
