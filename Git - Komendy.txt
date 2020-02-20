@@ -1,14 +1,14 @@
 Git - Komendy
 
-git commit -m "nazwa zmiany" -a
+ABY UPDATOWAĆ NA DYSKU WPISUJĘ:
 
--a = all, wszystkie zmiany wprowadzi
+  git commit -m "nazwa zmiany" -a
 
+FLAGA   -a   oznacza, że   commit   ma objąć wszystkie zmiany.
+NASTĘPNIE WYSYŁAM DO NETA, DO REPOZYTORIUM NA GITHUBIE, WPISUJĘ:
 
-później 
+  git push
 
-git push
-
-i dane logowania
+podaję dane logowania do GitHuba
 
 Takim sposobem się updatuje repozytorium.
