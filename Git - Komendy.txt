@@ -36,3 +36,12 @@ wyświetla co się dzieje
   git add .
 
 dodaje wszystko do zmian
+
+
+
+Gdy wejdę przez przypadek w edytor VI
+
+ESC -> 
+  :q!
+
+Opuszcza edytor VI
