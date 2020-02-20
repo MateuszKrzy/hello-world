@@ -12,3 +12,10 @@ NASTĘPNIE WYSYŁAM DO NETA, DO REPOZYTORIUM NA GITHUBIE, WPISUJĘ:
 podaję dane logowania do GitHuba
 
 Takim sposobem się updatuje repozytorium.
+
+
+ŚCIĄGANIE Z GITHUBA:
+
+  git pull
+  
+:)
