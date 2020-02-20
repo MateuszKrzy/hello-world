@@ -1,4 +1,4 @@
-Git - Komendy
+﻿Git - Komendy
 
 ABY UPDATOWAĆ NA DYSKU WPISUJĘ:
 
@@ -20,3 +20,14 @@ Takim sposobem się updatuje repozytorium.
   git pull
   
 :)
+
+
+  git add nazwa_pliku
+
+dodaje do trackowania (stage)
+
+
+
+  git status
+
+wyświetla co się dzieje
