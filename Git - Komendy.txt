@@ -45,3 +45,9 @@ ESC ->
   :q!
 
 Opuszcza edytor VI
+
+
+Logowanie z terminala do GitHuba:
+
+  na githubie jest ssh key instrukcja, link się wrzuca
+  uwierzytelnia komputer żeby z terminala na konto konkretne wysyłało
