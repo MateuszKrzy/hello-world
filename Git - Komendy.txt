@@ -4,6 +4,7 @@ ABY UPDATOWAĆ NA DYSKU WPISUJĘ:
 
   git commit -m "nazwa zmiany" -a
 
+FLAGA   -m   oznacza "message"
 FLAGA   -a   oznacza, że   commit   ma objąć wszystkie zmiany.
 NASTĘPNIE WYSYŁAM DO NETA, DO REPOZYTORIUM NA GITHUBIE, WPISUJĘ:
 

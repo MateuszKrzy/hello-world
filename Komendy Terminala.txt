@@ -1,0 +1,3 @@
+KOMENDY TERMINALA
+
+cd
